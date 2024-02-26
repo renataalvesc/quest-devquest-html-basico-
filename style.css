@@ -1,14 +1,25 @@
-
-.texto{
-    margin: 40px;
-    padding: 20px;
+table, th, td{
+    border: 1px solid black  ;
 }
-.paragrafo-padrão{
-    background: color #f5f5f5;
-    
-}
+.cabeçalho-moda{
+    background-color: #bb86fc;
+    font-style: italic;
+    color: #ffffff;
+}.cabeçalho-casa{
+    background-color: #00C4B4;
+    font-style: italic;
+    color: #ffffff;
 
-.paragrafo-destacado{
-    background-color: #f0cce2;
+}
+.produto-moda{
+    background-color: black;
+    font-style: italic;
+    color: #ffffff
+    ;
    
+}
+.produto-casa{
+    background-color: black;
+    font-style: italic;
+    color: #ffffff;
 }
